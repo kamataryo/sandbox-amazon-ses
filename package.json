@@ -1,0 +1,11 @@
+{
+  "name": "sandbox-amazon-ses",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kamataryo <mugil.cephalus+github.com@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "aws-sdk": "^2.384.0"
+  }
+}
